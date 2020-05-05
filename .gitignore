@@ -38,3 +38,6 @@ out
 /build.gradle.out
 /gradle.properties.out
 /java_localOverride.cmd
+*.versionsBackup
+/target
+/bin

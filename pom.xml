@@ -64,7 +64,7 @@
 					<docletArtifact>
 						<groupId>org.asciidoctor</groupId>
 						<artifactId>asciidoclet</artifactId>
-						<version>1.5.6</version>
+						<version>1.5.4</version>
 					</docletArtifact>
 					<additionalparam>
 						--base-dir ${project.basedir}
